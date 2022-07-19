@@ -138,6 +138,8 @@ function init(){
             input[0].style.color="lightgray";
              wrapper[0].innerHTML='';
              label.classList.remove('show');
+            
+            setTimeout( myFunction,5000)
 
             
             
