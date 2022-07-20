@@ -21,6 +21,10 @@ Tech level:
 Upload various images to different folder to speed up loading process but this will be conducted next week.
 
 TBD
+-
+
+Deploy a technique to hide the javascript source code.
+
 
 
 
